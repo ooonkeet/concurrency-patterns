@@ -1,3 +1,3 @@
-(<../../../../Pictures/Camera Roll/fork-joinModel.drawio>)
+(fork-joinModel.jpg)
 
 GoLang follows this model.
