@@ -1,3 +1,1 @@
-(fork-joinModel.jpg)
-
-GoLang follows this model.
+GoLang follows fork join model.
